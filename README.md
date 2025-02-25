@@ -1,1 +1,1 @@
-# chromed-basics
+# chromadb-basics
